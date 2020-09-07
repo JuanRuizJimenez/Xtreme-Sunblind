@@ -1,0 +1,61 @@
+{
+    "Juego": "Xtreme-SunBlind!",
+    "Desarrollador": "JUVI",
+    "Visitas": 0,
+    "Componentes": {
+        "Primero": "Juan Ruiz Jimenez",
+        "Segundo": "Javier Cordero Calvo"
+    },
+    "score": [
+        {
+            "nombre": "Juan",
+            "punct": 100,
+            "nivel": 50
+        },
+        {
+            "nombre": "Javi",
+            "punct": 99,
+            "nivel": 40
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        },
+        {
+            "nombre": "Sin Datos",
+            "punct": 0,
+            "nivel": 0
+        }
+    ]
+}
